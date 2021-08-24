@@ -4,7 +4,6 @@ position: relative;
 margin-left:0;
 align-items: center;
 text-align: center;
-
 }
 
 h1, h2{
@@ -78,8 +77,9 @@ div{
     width: 100%;
     background: rgba(255, 0, 0, 0);
     margin-left: 70px;
+    
 }
-#floatBar > div:hover{
+#floatBar > a:hover{
     background:rgb(255, 0, 0);
   }
   a:link, a:visited {
